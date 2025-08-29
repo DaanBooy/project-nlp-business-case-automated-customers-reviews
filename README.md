@@ -21,7 +21,7 @@ Headsets & Audio
 Games
 Controllers
 
-## 🤗 Model deployment on HuggingFace
+## 🤗 Models and deployment on HuggingFace
 
 👉 https://huggingface.co/spaces/DaanBooy/games_and_accessories_reviews
 
@@ -29,6 +29,12 @@ Controllers
 - **Classification tab:** Upload a review and see its sentiment classification (RoBERTa-base).
 - **Clustering view:** Explore product category clusters.
 - **Summaries:** Read AI-generated articles highlighting top products, main complaints, and the worst product per category.
+
+The model files generated in this project can be found here: 👇
+
+https://huggingface.co/DaanBooy/review-sentiment-distilbert-base-uncased
+https://huggingface.co/DaanBooy/review-sentiment-bert-base-uncased
+https://huggingface.co/DaanBooy/review-sentiment-roberta-base
 
 ## ⚙️ How to Run & Reproduce Results
 
