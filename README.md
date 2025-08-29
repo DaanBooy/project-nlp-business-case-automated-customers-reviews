@@ -32,9 +32,9 @@ Best-performing model for review sentiment classification was **RoBERTa-base**:
 
 The model files generated in this project can be found here: 👇
 
-https://huggingface.co/DaanBooy/review-sentiment-distilbert-base-uncased
-https://huggingface.co/DaanBooy/review-sentiment-bert-base-uncased
-https://huggingface.co/DaanBooy/review-sentiment-roberta-base
+ - https://huggingface.co/DaanBooy/review-sentiment-distilbert-base-uncased
+ - https://huggingface.co/DaanBooy/review-sentiment-bert-base-uncased
+ - https://huggingface.co/DaanBooy/review-sentiment-roberta-base
 
 ## ⚙️ How to Run & Reproduce Results
 
