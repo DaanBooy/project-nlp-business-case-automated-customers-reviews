@@ -16,10 +16,10 @@ Best-performing model for review sentiment classification was **RoBERTa-base**:
 
 ## 🔍 Clusters found
 
-Keyboards & Mice
-Headsets & Audio
-Games
-Controllers
+ - **Keyboards & Mice**
+ - **Headsets & Audio**
+ - **Games**
+ - **Controllers**
 
 ## 🤗 Models and deployment on HuggingFace
 
