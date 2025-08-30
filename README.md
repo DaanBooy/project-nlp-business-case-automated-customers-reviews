@@ -1,8 +1,11 @@
 # Project NLP | Business Case: Automated Customer Reviews
 
-The goal of this project is to develop a product review system. That can classify sentiment, cluster by product categories and write product summaries into recommendation articles.
+The goal of this project is to develop a product review system. That can classify review sentiment to **Positive/Neutral/Negative**, cluster the reviews by product categories and write product summaries into recommendation articles.
 
-For this project a dataset with **Amazon reviews** is used, more specifically reviews from the **Video Games** category. This data set can be found here 👉 https://amazon-reviews-2023.github.io/ 👈
+For this project a dataset with **Amazon reviews** is used, more specifically reviews from the **Video Games** category. This data set can be found here 👉 https://amazon-reviews-2023.github.io/ 
+
+Full project guidelines can be found here 👇  
+https://github.com/ironhack-labs/project-nlp-business-case-automated-customers-reviews-v2 
 
 ## 📊 Best Results
 
