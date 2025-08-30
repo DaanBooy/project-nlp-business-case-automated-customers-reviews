@@ -54,8 +54,7 @@ pip install -r requirements.txt
 **Data Preparation**  
 Run `data_prep.ipynb` to preprocess the Amazon Video Games review dataset.
 
-**Train Models**
-
+**Train Models**  
 - `review_classification_dbu.ipynb` → DistilBERT  
 - `review_classification_bbu.ipynb` → BERT-base  
 - `review_classification_rb.ipynb` → RoBERTa-base
@@ -63,8 +62,7 @@ Run `data_prep.ipynb` to preprocess the Amazon Video Games review dataset.
 **Evaluate Models**  
 Use `model_comparison_viz.ipynb` to visualize results (precision, recall, F1, confusion matrix).
 
-**Clustering**
-
+**Clustering**  
 - Run `review_clustering_sample.ipynb` for exploratory clustering.  
 - Run `review_clustering_full.ipynb` to cluster the full dataset into 4 categories.
 
@@ -74,7 +72,7 @@ Execute `review_summarization.ipynb` to generate product recommendation articles
 **Deployment**  
 Use `model_deployment_HF.ipynb` to deploy the system to Hugging Face Spaces.
 
-**Notes:** 
+**Notes:**  
 To ensure you have enough RAM to run notebooks, use Google Colab on GPU T4 (High-RAM).
 To run `review_summarization.ipynb`, make sure you create a `.env` file in your project folder containing your OpenAI API key:
 ```
@@ -86,7 +84,7 @@ OPENAI_API_KEY=your_api_key_here
 ## 📂 Repository Contents
 
 | File Name | Description |
-|-----------|-------------|
+:-----------:|:-------------:|
 | `requirements.txt` | Lists all Python dependencies needed to run and reproduce the entire project |
 | `data_prep.ipynb` | Used to prepare review data for the rest of the project |
 | `review_classification_dbu.ipynb` | Notebook with distilbert-base-uncased model training |
