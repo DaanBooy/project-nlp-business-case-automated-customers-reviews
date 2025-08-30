@@ -74,7 +74,7 @@ Use `model_deployment_HF.ipynb` to deploy the system to Hugging Face Spaces.
 
 **Notes:**  
 To ensure you have enough RAM to run notebooks, use Google Colab on GPU T4 (High-RAM).  
-To run `review_summarization.ipynb`, make sure you create a `.env` file in your project folder containing your OpenAI API key:
+To run `review_summarization.ipynb`, make sure you create a `.env` file in your project folder/Google Drive containing your OpenAI API key:
 ```
 OPENAI_API_KEY=your_api_key_here
 ```
