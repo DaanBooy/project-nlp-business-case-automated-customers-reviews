@@ -2,7 +2,7 @@
 
 The goal of this project is to develop a product review system. That can classify sentiment, cluster by product categories and write product summaries into recommendation articles.
 
-For this project the dataset on amazon reviews is used, specifically from the Video_Games category. This data set can be found here 👉 https://amazon-reviews-2023.github.io/
+For this project a dataset with **Amazon reviews** is used, more specifically reviews from the **Video Games** category. This data set can be found here 👉 https://amazon-reviews-2023.github.io/ 👈
 
 ## 📊 Best Results
 
@@ -23,7 +23,7 @@ Best-performing model for review sentiment classification was **RoBERTa-base**:
 
 ## 🤗 Models and deployment on HuggingFace
 
-👉 https://huggingface.co/spaces/DaanBooy/games_and_accessories_reviews
+👉 https://huggingface.co/spaces/DaanBooy/games_and_accessories_reviews 👈
 
 **What you can do:**
 - **Classification tab:** Upload a review and see its sentiment classification (RoBERTa-base).
@@ -74,7 +74,9 @@ Execute `review_summarization.ipynb` to generate product recommendation articles
 **Deployment**  
 Use `model_deployment_HF.ipynb` to deploy the system to Hugging Face Spaces.
 
-**Note:** To run `review_summarization.ipynb`, make sure you create a `.env` file in your project folder containing your OpenAI API key:
+**Notes:** 
+To ensure you have enough RAM to run notebooks, use Google Colab on GPU T4 (High-RAM).
+To run `review_summarization.ipynb`, make sure you create a `.env` file in your project folder containing your OpenAI API key:
 ```
 OPENAI_API_KEY=your_api_key_here
 ```
@@ -96,6 +98,6 @@ OPENAI_API_KEY=your_api_key_here
 | `review_summarization.ipynb` | Notebook used to make the generative review summarization articles |
 | `model_deployment_HF` | File used to deploy to HuggingFace space |
 | `Project NLP _ Business Case_ Automated Customer Reviews - Final report.pdf` | PDF containing the final report on this project|
-| `nothing yet` | Presentation file, to be added later |
+| `To be added later` | Presentation file, to be added later |
 
 ---
