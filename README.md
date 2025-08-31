@@ -29,8 +29,8 @@ Best-performing model for review sentiment classification was **RoBERTa-base**:
 👉 https://huggingface.co/spaces/DaanBooy/games_and_accessories_reviews 👈
 
 **What you can do:**
-- **Classification tab:** Upload a review and see its sentiment classification (RoBERTa-base).
-- **Clustering view:** Explore product category clusters.
+- **Classification:** Upload a review and see its sentiment classification (RoBERTa-base).
+- **Clustering:** Explore product category clusters.
 - **Summaries:** Read AI-generated articles highlighting top products, main complaints, and the worst product per category.
 
 The model files generated in this project can be found here: 👇
@@ -99,6 +99,6 @@ OPENAI_API_KEY=your_api_key_here
 | `review_summarization.ipynb` | Notebook used to make the generative review summarization articles |
 | `model_deployment_HF` | File used to deploy to HuggingFace space |
 | `Project NLP _ Business Case_ Automated Customer Reviews - Final report.pdf` | PDF containing the final report on this project|
-| `To be added later` | Presentation file, to be added later |
+| `Presentation.pptx` | Powerpoint Presentation of this project |
 
 ---
